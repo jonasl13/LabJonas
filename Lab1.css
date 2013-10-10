@@ -1,0 +1,57 @@
+body { background-color: #000000;
+	margin-top: 40px;
+}
+ 
+    
+
+
+.blue {
+	font-size: 15px;
+	font-style: normal;
+	color: blue;
+}
+
+.red {
+	font-size: 15px;
+	font-style: normal;
+	color: red;
+}
+
+.black {
+	font-size: 15px;
+	font-style: normal;
+	color: black;
+}
+
+.white {
+	font-size: 15px;
+	font-style: normal;
+	color: white;
+}
+
+.green {
+	font-size: 15px;
+	font-style: normal;
+	color: green;
+}
+
+.pink {
+	font-size: 15px;
+	font-style: normal;
+	color: pink;
+}
+
+.purple {
+	font-size: 15px;
+	font-style: normal;
+	color: purple;
+}
+
+#content {
+  background: #744A00;
+  margin: 0 auto;
+  width: 500px;
+  padding: 50px;
+  text-align: center;
+
+}
